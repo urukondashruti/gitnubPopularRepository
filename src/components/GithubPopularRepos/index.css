@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list1 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  text-align: center;
+}
+
+.list2 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1000px;
+}
+
+.div10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.con {
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #0284c7;
+  outline: none;
+  cursor: pointer;
+  color: #0284c7;
+  border-radius: 20px;
+  height: 50px;
+  width: 100px;
+}
+.back {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
